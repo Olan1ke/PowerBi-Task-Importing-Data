@@ -3,6 +3,7 @@
 ## Introduction
 
 In this Power Bi Task, We were Provided with a Dataset called BankFull in CSV Format. The project is to learn on how to import file from diffirent source into Power Bi.
+
 **_Disclamier_**:_All Dataset do not represent any individual, Institution or company ,but just a dummy set to demonstrate my knowledge of Power Bi._
 
 ## Problem Statement
@@ -18,7 +19,7 @@ In this Power Bi Task, We were Provided with a Dataset called BankFull in CSV Fo
 
  ## Problem Solved
 
--   Import the Dataset Bank Term Deposist Subscription into PowerBi Using The CSV option.
+-   Import the Dataset Bank Term Deposit Subscription into PowerBi Using The CSV option.
 
 I open the PowerBi Desktop ,Go to get data, Under get data , click on Text/CSV, then connect,You will see were CSV file are.
 
@@ -40,5 +41,11 @@ Then pick Bank Term Subscription,you will pick the BankFull ,it will take you to
      I Use the advance option to filter the first 25 rows
 
       ![](Top25_Bank_Full_Row.png)
+
+      -  Import Dataset from the internet using the Web option.
+
+      ![]()
+
+      
 
       
