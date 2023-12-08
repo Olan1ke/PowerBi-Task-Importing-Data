@@ -21,9 +21,24 @@ In this Power Bi Task, We were Provided with a Dataset called BankFull in CSV Fo
 -   Import the Dataset Bank Term Deposist Subscription into PowerBi Using The CSV option.
 
 I open the PowerBi Desktop ,Go to get data, Under get data , click on Text/CSV, then connect,You will see were CSV file are.
-          Then pick Bank Term Subscription,you will pick the BankFull ,it will take you to a table view . Then you load the Dataset.
-          You view the data to check the format and data type. This particular dataset was in good condition.
 
-    ![](Bank_Full.png)      
+Then pick Bank Term Subscription,you will pick the BankFull ,it will take you to a table view . Then you load the Dataset. You view the data to check the format and data type. This particular dataset was in good condition.
+
+    ![](Bank_Full.png)
+
           
-  
+  -  Load the dataset into a database in the SQL server, connect your powerBi Desktop to the SQl Server and import only the first 25 rows into your Power Desktop for analysis.
+
+  I load the dataset into a database in the Sql Server 
+
+    ![](Bank_Full_Sql.png) 
+
+    I imported the dataset from the sql server into the PowerBi desktop using the SQl option
+
+     ![](Importing_into_Sql.png)
+
+     I Use the advance option to filter the first 25 rows
+
+      ![](Top25_Bank_Full_Row.png)
+
+      
