@@ -25,26 +25,29 @@ I open the PowerBi Desktop ,Go to get data, Under get data , click on Text/CSV, 
 
 Then pick Bank Term Subscription,you will pick the BankFull ,it will take you to a table view . Then you load the Dataset. You view the data to check the format and data type. This particular dataset was in good condition.
 
-    ![](Bank_Full.png)
+![](Bank_Full.png)
 
           
   -  Load the dataset into a database in the SQL server, connect your powerBi Desktop to the SQl Server and import only the first 25 rows into your Power Desktop for analysis.
 
   I load the dataset into a database in the Sql Server 
 
-    ![](Bank_Full_Sql.png) 
+![](Bank_Full_Sql.png) 
 
     I imported the dataset from the sql server into the PowerBi desktop using the SQl option
 
-     ![](Importing_into_Sql.png)
+![](importing_into_sql.png)
 
      I Use the advance option to filter the first 25 rows
 
-      ![](Top25_Bank_Full_Row.png)
+![](Top25_Bank_Full_Row.png)
 
       -  Import Dataset from the internet using the Web option.
+I Went to Get Data Icon,click on web,go to the web and type what want to import
+![](Importing_data_from_the_web.png)
 
-      ![]()
+I Imported Population for Africa countries
+![](Africa_Countries_Population.png)
 
       
 
